@@ -1,11 +1,11 @@
 {
-  "name": "rollup-test",
+  "name": "rollup-test-moon-21",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "build": "rollup -c",
-    "serve": "rollup -c -w" // 本地开发时，使用监听模式
+    "serve": "rollup -c -w"
   },
   "author": "",
   "license": "ISC",
